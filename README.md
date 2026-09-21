@@ -326,9 +326,9 @@ The project therefore demonstrates an end-to-end analytics workflow combining **
 
 B.Tech — Computer Science & Engineering
 
-GitHub: `https://github.com/YOUR-USERNAME`
+GitHub: `https://github.com/AbhinavWIIRX`
 
-LinkedIn: `https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/`
+LinkedIn: `https://www.linkedin.com/in/abhinav-kaushik-354027304/`
 
 ## Disclaimer
 
